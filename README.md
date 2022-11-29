@@ -1,2 +1,1 @@
-# some-stuff
-nothing useful here, just repo for one of my projects...
+hi stranger
